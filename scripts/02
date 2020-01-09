@@ -1,0 +1,4 @@
+#!/bin/sh
+sudo deluser --remove-home user
+
+# This will delete a real user and the user's home directory

@@ -1,0 +1,2 @@
+#!/bin/bash
+ifconfig | expand | cut -c 1-8 | uniq -u | awk -F: '{print $1;}'

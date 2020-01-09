@@ -1,0 +1,2 @@
+To find the version of installed OS (Debian)
+cat /etc/os-release

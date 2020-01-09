@@ -1,0 +1,6 @@
+File : .ssh/authorized_keys
+First off you have to be in your user folder where the hidden .ssh file is located.
+ssh-keygen if there are no existing keys.
+cat ~/.ssh/id_rsa.pub to find the key.
+echo public_key_string >> ~/.ssh/authorized_keys to locate the key to be able to remote login.
+# Found here : cat /etc/ssh/sshd_config | grep AuthorizedKeysFile

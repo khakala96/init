@@ -1,0 +1,4 @@
+ssh user@ipaddress
+To get ip: In virtual machine type "ip address" and look for the inet ip.
+IP(for example): 10.11.200.128
+# Find the command that allows you to connect via session the VM.

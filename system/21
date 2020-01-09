@@ -1,0 +1,4 @@
+cat /etc/passwd | egrep ':[0-4]{4}' | cut -d: -f1
+
+# List all real users on the VM
+# Their id is more than 1000 (or equals 1000)

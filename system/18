@@ -1,0 +1,3 @@
+pkill ssh
+# sudo service ssh start to start it back up
+# Find the command that kills ssh service

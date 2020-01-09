@@ -1,0 +1,12 @@
+# Log in to your server.
+# Log in to your system as the root user:
+ssh root@server_ip_address
+
+# Create a new user account using the adduser command.
+adduser username
+
+# Add password
+
+# Add the new user to the sudo group
+
+su - username

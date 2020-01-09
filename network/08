@@ -1,0 +1,5 @@
+#!bin/bash
+WHOIS slash16.org //this tells who is hosting the webiste, where it is registered etc. 
+nslookup slash16.org to find ip adress
+use whois on ip address
+Answer: Amazon AWS Network Operations

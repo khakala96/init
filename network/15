@@ -1,0 +1,8 @@
+We modify /etc/hosts and the 42intra ip to 46.19.122.85
+To this:
+cat /etc/hosts
+10.51.1.10       cdn.42.fr
+46.19.122.85    cdn.intra.42.fr <--
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost

@@ -1,0 +1,3 @@
+systemctl restart sshd
+
+# The command that reboots the SSH service

@@ -1,0 +1,4 @@
+# 'Get the complete path of the file that contains the IP address of the DNS server
+# you’re using'
+Use to get the complete path: /var/run/resolv.conf
+"scutil --dns | grep nameserver" can be used to access the DNS server being used.

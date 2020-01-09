@@ -1,0 +1,8 @@
+First we search for system configuration folder (etc) and then for the hosts.
+cat /etc/hosts
+Output:
+10.51.1.10       cdn.42.fr
+10.51.1.10    cdn.intra.42.fr
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost

@@ -1,0 +1,3 @@
+/etc/hostname/
+Modify with for example vim
+To make a permanent change, change the HOSTNAME to desired name. 

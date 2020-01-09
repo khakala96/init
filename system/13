@@ -1,0 +1,6 @@
+top (Gives and updates the currently running processes in real time) <---
+ps -aux
+
+# a : Select all processes
+# u : Select all processes on a terminal, including those of other users
+# x : Select processes without controlling ttys

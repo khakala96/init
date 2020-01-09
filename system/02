@@ -1,0 +1,2 @@
+hostname NEW_HOSTNAME
+sudo hostnamectl set-hostname NEW_HOSTNAME

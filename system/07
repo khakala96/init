@@ -1,0 +1,4 @@
+ cat /var/run/sshd.pid
+
+# Figure out the PID (Proccess ID) of the SSHD service.
+# PID a number used by most operating system kernels to uniquely identify an active process

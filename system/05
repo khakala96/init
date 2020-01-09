@@ -1,0 +1,3 @@
+/var/run/sshd.pid
+
+# Name the command that determines the state of the SSH service.
